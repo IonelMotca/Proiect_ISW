@@ -1,4 +1,4 @@
-Nume Proiect: Ecosistem
+Nume Proiect: ECOSISTEM
 
 Disciplina ISW
 
