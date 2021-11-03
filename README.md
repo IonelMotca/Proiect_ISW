@@ -4,10 +4,10 @@ Disciplina ISW
 
 Participanti:
 
--Motca Ionel
--Martinescu Razvan
--Amariutei Bogdan
--Ciobanu Alexandru 
--Manea Razvan 
+-Motca Ionel[PM]
+-Martinescu Razvan[DOC]
+-Amariutei Bogdan[TEST]
+-Ciobanu Alexandru[DEV]
+-Manea Razvan[DEV]
 
 https://trello.com/proiect_isw/getting-started
